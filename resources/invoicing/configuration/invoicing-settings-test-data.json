@@ -1,0 +1,21 @@
+{
+    "header": "Invoicing Settings",
+    "headerContentText": "Use the settings for Plan to Plan Invoice Configurations.",
+    "invoiceSettingsRightName": "Get Invoicing Settings",
+    "ipdsLabelText": "IPDS (Inter Plan Data Solution)",
+    "ipdsInfo": "Audit transactions will come from IPDS (Inter Plan Data Solutions) Report for Outgoing Invoices.",
+    "gr999LabelText": "GR999",
+    "gr999Info": "GR999 will be populated for Special Notations Code in the Outgoing Invoices if not known for the Audits.",
+    "mappingLabelText": "Mapping Special Notations/Adjustment Reason Codes with Audit Types",
+    "mappingInfo": "Special Notations/Adjustment Reason Codes in Outgoing Invoices will come from Mapping screen.",
+    "ipdsTooltip": "If this Configuration is turned on, you will not be able to turn on Special Notations/Adjustment Reason Codes Mapping Configurations.",
+    "gr999Tooltip": "This configuration can not be turned on if Special Notations/Adjustment Reason Codes Mapping with Audit Types is turned on.",
+    "mappingAuditTypesTooltip": "If this Configuration is turned on, you will not be able to turn on IPDS or GR999 Configurations.",
+    "restoreToDefaultPopupData": "This action will restore the settings to default.\nAre you sure you want to proceed?",
+    "restoreToDefaultSuccessToaster": "Success\nInvoicing settings have been restored to default successfully.",
+    "uncheckedButtonClassValue": "mdc-switch mdc-switch--unselected",
+    "checkedButtonClassValue": "mdc-switch mdc-switch--selected mdc-switch--checked",
+    "settingSavedToasterMessage": "Success\nChanges made to invoicing settings have been saved successfully.",
+    "auditTypeMappingValidationPopupText": "This action will turn off the IPDS and GR999 Configurations.\nAre you sure you want to proceed?",
+    "ipdsSettingsValidationPopup": "This action will turn off the Mapping Special Notations/Adjustment Reason Codes with Audit Types Configuration.\nAre you sure you want to proceed?"
+}

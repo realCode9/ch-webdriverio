@@ -1,0 +1,15 @@
+{
+    "memberPageHeader":"Members",
+    "searchButtonLabel":"Search",
+    "clearButtonLabel":"Clear",
+    "validationMessage":"Please select at least one field to search.",
+    "memberID":"245631",
+    "memberFirstName":"Tony",
+    "memberLastName":"Vinski",
+    "memberDOB":"06/14/1997",
+    "memberListingHeader":"Member ID,Member Name,Relationship Code,DOB,Gender,Phone,Address Line 1,Address Line 2,,,,,,",
+    "incorrectMemberId":"1dekkijw33",
+    "noDataMessage":"No Search Results Found",
+    "sortIconCount" : 2,
+    "dataBaseFields" : ["number","gender","indicators.relationship"]
+}

@@ -1,0 +1,12 @@
+{
+    "mainTab":"Main",
+    "rulesTab":"Rules",
+    "tableHeadersForMainTabHistory": "User,Action,Value,Original Value,Updated Value,Date and Time",
+    "tableHeadersForRulesHistoryTab": "User,Action,Inventory Type,Rule Name,Date and Time",
+    "dropdownOptions":"Main,Rules",
+    "clinicalRuleHeading": "Clinical Rules",
+    "statuses": "Updated,Added,Deleted",
+    "newValue": "Rule Deleted. No current value available.",
+    "previousValue": "Rule Created. No previous value available.",
+    "ruleNameColumnHeader": "Rule Name"
+}

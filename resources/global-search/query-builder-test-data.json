@@ -1,0 +1,19 @@
+{
+    "inventoryType":"Audits",
+    "searchAuditType": "Audit Type",
+    "auditType": "Clinical Audit",
+    "searchPatientFirstName":"Patient First Name",
+    "searchPatientFirstNameOption":"RYAN",
+    "saveQueryHeader": "Save Rule",
+    "ruleName": "TestQuery",
+    "ruleDescription": "This is query test description",
+    "updatedRuleDescription": "This query is updated",
+    "ruleSaveSuccessToaster":"Success\nQuery saved successfully",
+    "duplicateQueryMessage":"Error\nQuery name already exists.",
+    "deleteQuerySuccessToaster":"Success\nQuery successfully deleted.",
+    "columnSelectionModalHeaderText":"COLUMN SELECTION",
+    "columnName":"Audit Type",
+    "allowedColumn":"Allowed",
+    "operators": "equals",
+    "claimNumber": "DCCA9BD5E8"
+}

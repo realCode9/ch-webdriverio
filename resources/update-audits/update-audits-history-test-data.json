@@ -1,0 +1,13 @@
+{   
+    "updateAuditHistoryTableHeaderBeforeScroll":["Update Id","Source","User","Date and Time","Audit Type","Status","Internal Comment","Note", "Succeeded","Failed","Total"],
+    "copyIDsButtonText" : "Copy IDs",
+    "auditIDSearchPlaceholder" : "Search Audit ID",
+    "filterDropdownValue1" : "All Audits",
+    "filterDropdownValue2" : "Failed",
+    "filterDropdownValue3" : "Processing",
+    "filterDropdownValue4" : "Updated",
+    "paginationInlineError" : "Page size cannot be more than 100",
+    "updateIdDetailsTableHeader":["Audit ID","Claim #","Updated","Message","Amount"],
+    "statusDropdownValuesData" : ["All Audits", "Failed", "Processing", "Updated"],
+    "bottonInfoLabels" : ["User:", "Update Date:", "Type:", "Updated:", "Failed:", "Processing:", "Total:", "Amount Updated:"]
+}

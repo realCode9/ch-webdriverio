@@ -1,0 +1,11 @@
+{
+    "email": "pareo@clarishealth.com",
+    "regPassword":"Swsdemotest1!",
+    "chPassword":"p@520t35tU$er",
+    "invalidPassword": "invalidPassword",
+    "invalidEmail": "invalidEmail",
+    "userName": "pareo",
+    "keyword": "regression",
+    "fieldType":"password",
+    "textInUrl":"login"
+  }

@@ -1,0 +1,11 @@
+{
+ 
+  "workQueueName": "DemoUsersWorkQueue",
+  "successMessage": "Success\nUser was updated successfully",
+  "workQueueSuccessMessage":"Success\nWork Queue successfully created.",
+  "pageHeader":"User Work Queues",
+  "firstSubSeactionHeader":"Users",
+  "secondSubSeactionHeader":"Available Work Queues",
+  "thirdSubSeactionHeader":"Selected Work Queues"
+
+}

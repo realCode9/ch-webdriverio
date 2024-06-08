@@ -1,0 +1,17 @@
+{
+    "header": "Outgoing Invoices",
+    "emptySearchErrorMessage": "Please select atleast one field to search.",
+    "createInvoicePageHeaderText": "Create Invoice",
+    "newHostPlan": "Highmark",
+    "newHomePlan": "Anthem 834",
+    "newRecoveryDateRange": "01/06/2021 - 01/06/2021",
+    "hostPlanErrorText": "Please select Host Plan",
+    "homePlanErrorText": "Please select a Home Plan",
+    "recoveryDateRangeErrorText": "Please select Recovery Date Range",
+    "noTransactionsFoundError": "Enter the above details to fetch data",
+    "auditTransactionHeader": "Audit Transactions",
+    "includeExcludeAllTransactionsErrorText": "Please include/exclude all transactions",
+    "homePlanLabel":"Home Plan*",
+    "hostPlanLabel":"Host Plan*",
+    "paymentTimingLabel":"Payment Timing*"
+}

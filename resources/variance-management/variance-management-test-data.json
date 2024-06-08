@@ -1,0 +1,21 @@
+{
+  "positiveVariance": "Positive: Audit Amt > Recovered Amt",
+  "negativeVariance": "Negative: Recovered Amt > Audit Amt",
+  "auditType": "Data Mining",
+  "dataSet": "Demo Data 2",
+  "toolTipOnLineOfBusiness": "Dataset Required",
+  "toolTipOnDateOfAuditStatusRequired": "Audit Status Required",
+  "lineOfBusiness": "Commercial",
+  "addNameOnSaveFilter": "Test Filter",
+  "updatedFilterName": "Updated Test Filter",
+  "saveFilterSuccessToaster": "Success\nFilter saved successfully",
+  "balanceOutErrorMessage": "Audit not selected\nPlease select at least one audit to balance out",
+  "auditStatus": "1st Appeal Overturned",
+  "inlineErrorOfAdjustmentType": "Please select adjustment type",
+  "inlineErrorOfAuditStatus": "Please select the audit status you would like to transition each type of audits",
+  "inlineErrorOfInternalComments": "Please add internal comments",
+  "selectAdjustmentType": "Update Audit Amount",
+  "selectAdjustmentTypeAs": "Create a Transaction",
+  "noSearchResultScreen": "No Search Result Yet",
+  "updateAuditAmount": "Change Refund Due"
+}

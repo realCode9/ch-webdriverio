@@ -1,0 +1,14 @@
+{
+    "providerPageHeader":"Providers",
+    "searchButtonLabel":"Search",
+    "clearButtonLabel":"Clear",
+    "validationMessage":"Please select at least one field to search.",
+    "accountNumber":"AA01",
+    "providerNPI":"2234567890",
+    "providerName":"PROVIDER B",
+    "taxID":"223456789",
+    "providerListingHeader":[ "NPI", "Provider Name", "Provider #", "Tax ID","Account #","Auto Voucher Deduct"],
+    "incorrectNPI":"12345",
+    "noDataMessage":"No Search Results Found"
+    
+}

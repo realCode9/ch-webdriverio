@@ -1,0 +1,20 @@
+{
+    "header":"Letter Templates",
+    "sourceTypeColumnData":"Audit",
+    "letterCategoryColumnData":"Statement",
+    "createTemplateHeader":"Create Letter Template",
+    "newTemplateName":"kt template",
+    "letterHeader":"Letter to the member",
+    "letterBody":"Hi member\nThis is the audit id ",
+    "letterFooter":"Thanks\nClarisHealth",
+    "letterSavedSuccessToaster":"Success\nLetter template saved Successfully.",
+    "draftStatus":"Draft",
+    "activeStatus":"Active",
+    "previewModalHeader":"Preview Letter",
+    "deleteSuccessToaster":"Success\nLetter template deleted successfully.",
+    "deleteModalContent":"Are you sure you wish to delete kt template letter template?",
+    "mrrId":"489",
+    "historyField":"Status",
+    "historyPreviousValue":"draft",
+    "historyNewValue":"active"
+}

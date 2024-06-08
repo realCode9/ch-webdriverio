@@ -1,0 +1,16 @@
+{
+    "moduleTitle": "Roles",
+    "newRoleName": "QuantRole",
+    "roleDescription": "This is Automation testing",
+    "updatedNewRoleName": "QuantRole1",
+    "updatedRoleDescription": "This is an updated message",
+    "rightName": "Get Search Panel",
+    "errorMessage": "Error\nThis Role Name is already in use. Please choose another name.",
+    "historyTitle": "QuantRole1 History",
+    "deleteToasterMsg": "Success\nRole has been deleted",
+    "createToasterMsg": "Success\nRole has been created",
+    "updateToasterMsg": "Success\nRole has been updated",
+    "adminRole": "Administrator",
+    "categoryName": "Update Audits",
+    "rightNameForAccess" : "Bulk Update"
+}

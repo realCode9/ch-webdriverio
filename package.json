@@ -1,0 +1,52 @@
+{
+    "name": "claris-automation-webdriver",
+    "version": "1.0.0",
+    "description": "clarishealth automation project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "chtest-on-chrome": "kill-port --port 4444&&set CAP=oneByOne&&set BROWSER=chrome&&wdio run chtest.conf.js",
+        "chtest-on-edge": "kill-port --port 4444&&set CAP=oneByOne&&set BROWSER=MicrosoftEdge&&wdio run chtest.conf.js",
+        "chtest-parallel": "kill-port --port 4444&&set CAP=parallel&&wdio run chtest.conf.js",
+        "regression-on-chrome": "kill-port --port 4444&&set CAP=oneByOne&&set BROWSER=chrome&&wdio run regression.conf.js",
+        "regression-on-edge": "kill-port --port 4444&&set CAP=oneByOne&&set BROWSER=MicrosoftEdge&&wdio run regression.conf.js",
+        "regression-parallel": "kill-port --port 4444&&set CAP=parallel&&wdio run regression.conf.js",
+        "allure-report": "allure generate report/allure-results --clean && allure open",
+        "allure": "allure serve report/allure-results",
+        "pretest": "rimraf report"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tarunkohli/Claris-Automation-webdriver.git"
+    },
+    "author": "Gagandeep Singh Bhatia",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tarunkohli/Claris-Automation-webdriver/issues"
+    },
+    "homepage": "https://github.com/tarunkohli/Claris-Automation-webdriver#readme",
+    "devDependencies": {
+        "@babel/core": "^7.16.7",
+        "@babel/preset-env": "^7.16.7",
+        "@babel/register": "^7.16.7",
+        "@wdio/allure-reporter": "^7.16.13",
+        "@wdio/cli": "^7.16.13",
+        "@wdio/jasmine-framework": "^7.16.13",
+        "@wdio/local-runner": "^7.16.13",
+        "@wdio/selenium-standalone-service": "^7.33.0",
+        "@wdio/spec-reporter": "^7.16.13",
+        "@wdio/types": "^7.8.0",
+        "chromedriver": "^97.0.4",
+        "prettier": "2.4.1",
+        "wdio-chromedriver-service": "^7.3.2"
+    },
+    "dependencies": {
+        "edgedriver": "^5.3.10",
+        "kill-port": "^2.0.1",
+        "latest": "^0.2.0",
+        "mongoose": "^8.1.0",
+        "msedgedriver": "^91.0.0",
+        "node": "^21.6.2",
+        "npm": "^10.3.0"
+    }
+}

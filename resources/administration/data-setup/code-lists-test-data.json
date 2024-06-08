@@ -1,0 +1,15 @@
+{
+    "codeListText":"Code Lists",
+    "codeListName": "Automation Code List",
+    "codeListDescription": "test description of code list",
+    "codeListIdentifier": "test identifier of code lists",
+    "dataset": "Demo Data",
+    "auditType": "COB",
+    "updatedCodeListDescription": "Updated test description of code list",
+    "updatedCodeListIdentifier": "Updated test identifier of code lists",
+    "createSuccessToasterMessage": "Success\nAutomation Code List created",
+    "updateSuccessToasterMessage": "Success\nAutomation Code List updated",
+    "rowCount": "12",
+    "noData": "No Data",
+    "historyColumnHeaders":"Description,User,Date"
+}

@@ -1,0 +1,7 @@
+{
+    "clockDatesText": "Clock Dates",
+    "clockCollection":"Audit",
+    "startDateBasisName": "Automation Date",
+    "clockTypeFieldValue": "Audit",
+    "successToasterMessage": "Deleted Successfully"
+}

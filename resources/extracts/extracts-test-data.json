@@ -1,0 +1,21 @@
+{
+    "header":"Extracts",
+    "extractDetailHeader":"Extract Detail",
+    "extractCreateSuccessToaster":"Success\nExtract was Added",
+    "newExtractType":"ktnewExtractType",
+    "newOrganization":"testOrganization",
+    "newExtractName":"ktnewExtractName",
+    "availableRight":"Get kt",
+    "newExtractDescription":"test description",
+    "deleteExtractSuccessToaster":"Success\nExtract was Deleted",
+    "updateExtractSuccessToaster":"Success\nExtract was Updated",
+    "deleteModalText":"Are you sure you want to delete this extract?",
+    "extractName":"Auditor",
+    "historyHeaderText":"Extract History",
+    "downloadFile": "../claris-qa-automation/tempDownloads/Checks-Internal",
+    "user":"pareo",
+    "statusCompleted":"Complete",
+    "statusFailed":"Failed",
+    "noExtractInfoToaster":"Info\nNo results to extract",
+    "tableColumnHeaders":"Run Date/Time,User,Extract Type,Status"
+}

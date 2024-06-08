@@ -1,0 +1,16 @@
+{
+    "configurationsHeaderText": "Inventory Configurations",
+    "headingText": "Use the settings below to configure My Inventory",
+    "automaticCheckInText":"Automatic Check In",
+    "checkInSubHeadingText": "Any unpinned assignments will be removed from your team's inventory on a nightly basis and reassigned based on the inventory rules.",
+    "setLimitText": "Set the global assignment limit between 1-15 for Team Inventories\n-",
+    "setLimitSubHeadingText": "You can adjust the individual team inventory assignment limit. You cannot exceed the global maximum assignment limit.",
+    "noDataMessageText": "No Teams Added Yet\nTo configure team assignments, go to Inventory Assignments",
+    "toggleButtonClassValue": "mdc-switch mdc-switch--selected mdc-switch--checked",
+    "confirmationMessageText": "You are about to make changes to previously saved settings for Inventory Configurations. Are you sure you want to proceed?",
+    "validGlobalLimit": 10,
+    "defaultGlobalLimit": 5,
+    "globalLimitValidationMessage": "Please enter the value between 1-15",
+    "updateLimitSuccessToaster": "Success\nChanges made to inventory settings have been saved successfully",
+    "limitSetToDefaultSuccessToaster": "Success\nChanges to Inventory Configurations are restored to default"
+}
